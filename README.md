@@ -62,8 +62,7 @@ To use the Skype Android Mobile SDK samples project, you need the following:
 1. Download or clone the [Skype-Android-Mobile-SDK-Samples](https://github.com/OfficeDev/Skype-Android-Mobile-SDK-Samples).
 2. Start Android Studio.
 3. From the **Welcome to Android Studio** dialog box, choose **Import project (Eclipse ADT, Gradle, etc)**.
-4. Select the **settings.gradle** file in the **
-SkypeMobileUri** folder, and then click **OK**.
+4. Select the **settings.gradle** file in the **Skype-for-Business-Android-Uri-Sample** folder, and then click **OK**.
 5. Respond to the dialog box ("Gradle Sync: Gradle settings for this project are not configured yet. Would you like the project to use the Gradle wrapper? ") by clicking the **OK** button to use the Gradle wrapper. 
 
 ##Run the project
