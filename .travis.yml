@@ -11,6 +11,6 @@ script:
 notifications:
   email:
     recipients:
-    - jak@microsoft.com
+    - johnau@microsoft.com
     on_success: never
     on_failure: always
