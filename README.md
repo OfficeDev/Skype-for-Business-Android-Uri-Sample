@@ -59,7 +59,7 @@ To use the Skype Android Mobile SDK samples project, you need the following:
 
 ##Configure the project
 
-1. Download or clone the [Skype-Android-Mobile-SDK-Samples](https://github.com/OfficeDev/Skype-Android-Mobile-SDK-Samples).
+1. Download or clone the [Skype-Android-Mobile-SDK-Samples](https://github.com/OfficeDev/Skype-for-Business-Android-Uri-Sample).
 2. Start Android Studio.
 3. From the **Welcome to Android Studio** dialog box, choose **Import project (Eclipse ADT, Gradle, etc)**.
 4. Select the **settings.gradle** file in the **Skype-for-Business-Android-Uri-Sample** folder, and then click **OK**.
@@ -74,7 +74,7 @@ After you've built the project you can run it on a device. Video calling is not 
 4. Click the _MAKE SKYPE CALL_ button to start the call.
 
 ## Questions and comments
-We'd love to get your feedback about the Android Skype-Android-Mobile-SDK-Samples. You can send your feedback to us in the [Issues](https://github.com/OfficeDev/Skype-Android-Mobile-SDK-Samples/issues) section of this repository. <br/>
+We'd love to get your feedback about the Android Skype-Android-Mobile-SDK-Samples. You can send your feedback to us in the [Issues](https://github.com/OfficeDev/Skype-for-Business-Android-Uri-Sample/issues) section of this repository. <br/>
 General questions about Office 365 development should be posted to [Stack Overflow](http://stackoverflow.com/questions/tagged/Office365+API). Make sure that your questions are tagged with [Office365] and [API].
 
 ## Contributing
