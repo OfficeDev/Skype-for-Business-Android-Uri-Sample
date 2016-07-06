@@ -1,4 +1,5 @@
 # Skype for Business Mobile URI SDK Sample
+[![Build Status](https://travis-ci.org/OfficeDev/Skype-for-Business-Android-Uri-Sample.svg?branch=master)](https://travis-ci.org/OfficeDev/Skype-for-Business-Android-Uri-Sample)
 
 **Table of contents**
 
