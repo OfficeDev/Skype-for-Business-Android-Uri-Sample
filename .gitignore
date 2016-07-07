@@ -14,9 +14,7 @@
 /.idea/workspace.xml
 /build
 /captures
-/gradle
-/gradlew
-/gradlew.bat
+
 /local.properties
 Thumbs.db
 bin/
@@ -24,3 +22,5 @@ build/
 gen/
 gradle/
 out/
+app/libs/
+app/src/main/res/drawable/
