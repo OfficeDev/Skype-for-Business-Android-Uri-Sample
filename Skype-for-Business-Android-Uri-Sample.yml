@@ -1,0 +1,19 @@
+### YamlMime:Sample
+sample:
+- name: Skype for Business Mobile URI SDK Sample
+  path: ''
+  description: Does your app show a people list that includes telephone numbers or Skype for Business Ids? How cool would it be if your app could launch a new chat, audio, or video call in the Skype for Business client installed on the Android device? With the code in this sample, all you need to do is ask a user to pick a person from your list (along with the associated phone number or Skype address), pick chat, audio, or video, and with a few lines of code, your app launches Skype in a new full screen activity. The call is already queued with the phone number or id.
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies:
+  - Office Add-in
+  azureDeploy: ''
+  author: JohnAustin-MSFT
+  platforms: []
+  languages:
+  - Java
+  extensions:
+    products:
+    - Skype for Business
+    scenarios: []
