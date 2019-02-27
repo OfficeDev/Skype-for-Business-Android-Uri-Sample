@@ -1,3 +1,17 @@
+---
+topic: sample
+products:
+- Skype for Business
+- Office 365
+- Skype
+languages:
+- Java
+extensions:
+  contentType: samples
+  platforms:
+  - Android
+  createdDate: 7/6/2016 4:02:32 PM
+---
 # Skype for Business Mobile URI SDK Sample
 [![Build Status](https://travis-ci.org/OfficeDev/Skype-for-Business-Android-Uri-Sample.svg?branch=master)](https://travis-ci.org/OfficeDev/Skype-for-Business-Android-Uri-Sample)
 
