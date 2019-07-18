@@ -1,11 +1,11 @@
 ---
 topic: sample
 products:
-- Skype for Business
-- Office 365
-- Skype
+- office-skype-business
+- office-365
+- skype
 languages:
-- Java
+- java
 extensions:
   contentType: samples
   platforms:
