@@ -1,5 +1,5 @@
 ---
-topic: sample
+page_type: sample
 products:
 - office-skype-business
 - office-365
