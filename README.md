@@ -4,6 +4,7 @@ products:
 - office-skype-business
 - office-365
 - skype
+description: "Enable your app to launch a new chat, audio, or video call in the Skype for Business client installed on the Android device."
 languages:
 - java
 extensions:
